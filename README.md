@@ -1,22 +1,19 @@
-![GitHub Stats](https://github-readme-stats-omega-sand-18.vercel.app/api/?username=potatoman-dev&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoman-dev&theme=bear)  
+
 ![Top Langs](https://github-readme-stats-omega-sand-18.vercel.app/api/top-langs/?username=potatoman-dev&theme=radical)
+![GitHub Stats](https://github-readme-stats-omega-sand-18.vercel.app/api/?username=potatoman-dev&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoman-dev&theme=great_gatsby)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=potatoman-dev&theme=great_gatsby)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=potatoman-dev&theme=great_gatsby)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=potatoman-dev&theme=bear)](https://git.io/streak-stats)
 
 
 ## Status
 
-<a href="https://git.io/streak-stats">
-  <img align="left" src="https://streak-stats.demolab.com?user=potatoman-dev&theme=github-dark-dimmed&border_radius=10&date_format=%5BY.%5Dn.j" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact&theme=github_dark_dimmed" />
-</a>
+<!-- <a href="https://git.io/streak-stats"> -->
+<!--   <img align="left" src="https://streak-stats.demolab.com?user=potatoman-dev&theme=github-dark-dimmed&border_radius=10&date_format=%5BY.%5Dn.j" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact&theme=github_dark_dimmed" /> -->
+<!-- </a> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact)
 
