@@ -3,10 +3,8 @@
 ![Top Langs](https://github-readme-stats-omega-sand-18.vercel.app/api/top-langs/?username=potatoman-dev&theme=radical)
 ![GitHub Stats](https://github-readme-stats-omega-sand-18.vercel.app/api/?username=potatoman-dev&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=potatoman-dev&theme=bear)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=potatoman-dev&theme=bear)](https://git.io/streak-stats)
 
-
-## Status
 
 <!-- <a href="https://git.io/streak-stats"> -->
 <!--   <img align="left" src="https://streak-stats.demolab.com?user=potatoman-dev&theme=github-dark-dimmed&border_radius=10&date_format=%5BY.%5Dn.j" /> -->
