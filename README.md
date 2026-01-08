@@ -1,5 +1,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=potatoman-dev)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoman-dev&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=potatoman-dev&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=potatoman-dev&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=potatoman-dev&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=potatoman-dev&theme=great_gatsby&utcOffset=8)
+
+
 ## Status
 
 <a href="https://git.io/streak-stats">
