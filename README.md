@@ -2,5 +2,3 @@
 
 ![Top Langs](https://github-readme-stats-omega-sand-18.vercel.app/api/top-langs/?username=potatoman-dev&theme=radical)
 ![GitHub Stats](https://github-readme-stats-omega-sand-18.vercel.app/api/?username=potatoman-dev&theme=radical)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=potatoman-dev&theme=bear)](https://git.io/streak-stats) -->
